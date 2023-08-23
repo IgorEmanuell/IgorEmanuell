@@ -6,13 +6,14 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=IgorEmanuell&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorEmanuell&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorEmanuell&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorEmanuell&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 
+<h1 align="left">Tecnologias</h1>
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Igor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,8 +27,11 @@
 
 ##
 
+<h1 align="lef">Contato</h1>
 <div> 
   <a href="https://www.linkedin.com/in/igor-emanuell-carneiro-158a52207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="mailto:emanuelligor3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+
 
