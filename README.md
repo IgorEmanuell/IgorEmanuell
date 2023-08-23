@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorEmanuell&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorEmanuell&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorEmanuell&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorEmanuell&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 
