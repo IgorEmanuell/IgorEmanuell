@@ -2,8 +2,6 @@
 
 - 🔭 Hoje trabalho com analise de dados
 - 🌱 Estudando Python para Data Science
-- 😄 Pronouns: Ele/Ela
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorEmanuell&show_icons=true&theme=radical" />
